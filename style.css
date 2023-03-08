@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: green;
+}
+button{
+    padding: 10px;
+    color: green;
+    border-color: black;
+    background-color: goldenrod;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: large;
+    width: 180px;
+    margin-top: 5px;
+}
+h1{
+    color: goldenrod;
+    text-decoration: underline;
+}
+h2{
+    color: white;
+}
+
+p{
+    color: white;
+    font-size: xx-large;
+}
